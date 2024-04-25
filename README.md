@@ -2,11 +2,6 @@
 Repositório Bitcent
 </h1>
 
-
-<h2 align="center">
-    <img alt="Bitcent" src=".github/cover.svg" />
-</h2>
-
 <br>
 
 ## Tecnologias
